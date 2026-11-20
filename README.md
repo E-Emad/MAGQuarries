@@ -12,7 +12,7 @@
 [![Architecture](https://img.shields.io/badge/Resilience-Offline--First%20Sync-orange?style=flat-square)](https://emadks.com)
 [![Accounting](https://img.shields.io/badge/Standard-Autonomous%20Double--Entry-purple?style=flat-square)](https://emadks.com)
 
-[🌟 طلب عرض توضيحي (Demo)](https://github.com/E-Emad/MAGQuarries/blob/main/MAGQUARRIES_CASE_STUDY_MARKETING.md) • [📑 دراسة الحالة الكاملة](https://emadks.com) • [📞 تواصل مع المطور](https://wa.me/201284494004)
+[🌟 طلب عرض توضيحي (Demo)](https://emadks.com) • [📑 دراسة الحالة الكاملة](https://github.com/E-Emad/MAGQuarries/blob/main/MAGQUARRIES_CASE_STUDY_MARKETING.md) • [📞 تواصل مع المطور](https://wa.me/201284494004)
 
 </div>
 
